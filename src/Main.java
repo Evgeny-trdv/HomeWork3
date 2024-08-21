@@ -12,5 +12,6 @@ public class Main {
         System.out.println("Значение переменной fourthNumbers с типом long = " + fourthNumbers);
         System.out.println("Значение переменной fifthNumbers с типом float = " + fifthNumbers);
         System.out.println("Значение переменной sixthNumbers с типом double = " + sixthNumbers);
+        System.out.println("Первая задача выполнена");
     }
 }
