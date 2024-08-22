@@ -36,11 +36,11 @@ public class Main {
 
         System.out.println("Выполнение четвертой задачи");
         byte perfomance = 16/2;
-        int toTwelvemintutes = perfomance * 20;
+        int toTwentyminutes = perfomance * 20;
         int oneDay = perfomance * (24 * 60);
         int thereDays = perfomance * (3 * 24 *60);
         int oneMonth = perfomance * (30 * 24 * 60);
-        System.out.println("За 20 минут машина произвела " + toTwelvemintutes + " штук бутылок");
+        System.out.println("За 20 минут машина произвела " + toTwentyminutes + " штук бутылок");
         System.out.println("За сутки машина произвела " + oneDay + " штук бутылок");
         System.out.println("За три дня машина произвела " + thereDays + " штук бутылок");
         System.out.println("За месяц машина произвела " + oneMonth + " штук бутылок");
